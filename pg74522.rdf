@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/74522">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-10-06</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/1599">
+        <pgterms:name>Rathborne, St. George</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1854</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1938</pgterms:deathdate>
+        <pgterms:alias>Adams, Harrison</pgterms:alias>
+        <pgterms:alias>Old Broadbrim</pgterms:alias>
+        <pgterms:alias>Clifton, Oliver Lee</pgterms:alias>
+        <pgterms:alias>St. George, Harry</pgterms:alias>
+        <pgterms:alias>George, Harry St.</pgterms:alias>
+        <pgterms:webpage rdf:resource="ebooks/author/52760"/>
+        <pgterms:webpage rdf:resource="ebooks/author/45240"/>
+        <pgterms:webpage rdf:resource="ebooks/author/2624"/>
+        <pgterms:webpage rdf:resource="ebooks/author/4161"/>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/St_George_Henry_Rathborne"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>My Hildegarde : $b A strange story of adventure in the land of revolutions</dcterms:title>
+    <pgterms:marc260>  $aUnited States :$bStreet &amp; Smith, $c1902.</pgterms:marc260>
+    <pgterms:marc508>Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)</pgterms:marc508>
+    <pgterms:marc904>https://digital.library.villanova.edu/Item/vudl:715142</pgterms:marc904>
+    <pgterms:marc905>20230219064614rathborne</pgterms:marc905>
+    <pgterms:marc906>1902</pgterms:marc906>
+    <pgterms:marc907>us</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N61ca746489684a9b96f0aade7de3eab9">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nce0b6e22aabf485bb3651c983696d076">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/74522/74522-h/74522-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/74522"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503545</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-06T12:28:55</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6478bbb7384c40fb95579b9af81c9ddd">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/74522/74522-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/74522"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">431402</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-06T12:28:55</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N97a7840dd0b948108d5f34d899dc89dc">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="ebooks/author/52760">
+    <dcterms:description>More titles under Robertson, Alexander, M.D.</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/4161">
+    <dcterms:description>More titles under Carter, Nicholas (House name)</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/2624">
+    <dcterms:description>More titles under Carter, Herbert</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/45240">
+    <dcterms:description>More titles under Travers, J. M., Col.</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/St_George_Henry_Rathborne">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
