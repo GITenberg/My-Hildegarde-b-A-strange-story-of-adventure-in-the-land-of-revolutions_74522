@@ -1,5 +1,8 @@
 _repo: My-Hildegarde-b-A-strange-story-of-adventure-in-the-land-of-revolutions_74522
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74522-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathborne, St. George
@@ -20,6 +23,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/4161
     - https://en.wikipedia.org/wiki/St_George_Henry_Rathborne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74522#My-Hildegarde-b-A-strange-story-of-adventure-in-the-land-of-revolutions
 gutenberg_issued: '2024-10-06'
 gutenberg_type: Text
 identifiers:
